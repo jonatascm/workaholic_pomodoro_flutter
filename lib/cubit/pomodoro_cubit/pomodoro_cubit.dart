@@ -206,7 +206,7 @@ class PomodoroCubit extends Cubit<PomodoroState> {
 
   void loadRewardedAd() {
     RewardedAd.load(
-      adUnitId: kDebugMode ? 'ca-app-pub-3940256099942544/5224354917' : 'ca-app-pub-4927927141740564/3085248909',
+      adUnitId: 'ca-app-pub-3940256099942544/5224354917',
       request: AdRequest(),
       rewardedAdLoadCallback: RewardedAdLoadCallback(
         onAdFailedToLoad: (LoadAdError error) {

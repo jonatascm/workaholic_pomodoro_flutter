@@ -25,7 +25,7 @@ class _ControlsWidgetState extends State<ControlsWidget> {
   bool _rightButtonPressed = false;
 
   final BannerAd banner = BannerAd(
-    adUnitId: kDebugMode ? 'ca-app-pub-3940256099942544/6300978111' : 'ca-app-pub-4927927141740564/8866999131',
+    adUnitId: 'ca-app-pub-3940256099942544/6300978111',
     size: AdSize.banner,
     request: AdRequest(),
     listener: BannerAdListener(),
