@@ -1,0 +1,32 @@
+class AppImages {
+  static String kLogo = 'assets/images/logo.png';
+  static String k0XpBar = 'assets/images/0_xp_bar.png';
+  static String k1XpBar = 'assets/images/1_xp_bar.png';
+  static String k2XpBar = 'assets/images/2_xp_bar.png';
+  static String k3XpBar = 'assets/images/3_xp_bar.png';
+  static String k4XpBar = 'assets/images/4_xp_bar.png';
+  static String k5XpBar = 'assets/images/5_xp_bar.png';
+  static String kButton = 'assets/images/button.png';
+  static String kCoin = 'assets/images/coin.png';
+  static String kFacebookLogo = 'assets/images/facebook_logo.png';
+  static String kGoogleLogo = 'assets/images/google_logo.png';
+  static String kGuest = 'assets/images/guest.png';
+  static String kHammer = 'assets/images/hammer.png';
+  static String kButtonLarge = 'assets/images/large_button.png';
+  static String kButtonLargeError = 'assets/images/large_button_error.png';
+  static String kButtonLargeSuccess = 'assets/images/large_button_success.png';
+  static String kLogoMini = 'assets/images/logo_mini.png';
+  static String kLvlAvatar = 'assets/images/lvl_avatar.png';
+  static String kButtonPausePressed = 'assets/images/pause_button_pressed.png';
+  static String kButtonPause = 'assets/images/pause_button.png';
+  static String kButtonPlayPressed = 'assets/images/play_button_pressed.png';
+  static String kButtonPlay = 'assets/images/play_button.png';
+  static String kScrewdriver = 'assets/images/screwdriver.png';
+  static String kButtonStopPressed = 'assets/images/stop_button_pressed.png';
+  static String kButtonStop = 'assets/images/stop_button.png';
+  static String kWCoin = 'assets/images/w_coin.png';
+  static String kDialogBox = 'assets/images/dialog_box.png';
+  static String kCheckBox = 'assets/images/checkbox.png';
+  static String kCheckBoxChecked = 'assets/images/checkbox_checked.png';
+  static String kPlayAds = 'assets/images/play_ads.png';
+}

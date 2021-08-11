@@ -1,0 +1,49 @@
+name: workaholic_pomodoro
+description: A new pomodoro game.
+
+publish_to: "none"
+
+version: 0.0.4+5
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flame: 1.0.0-releasecandidate.11
+  google_fonts: ^2.1.0
+  flutter_bloc: ^7.0.1
+  equatable: ^2.0.3
+  firebase_core: "^1.0.4"
+  firebase_auth: "^1.1.1"
+  firebase_crashlytics: "^2.0.6"
+  firebase_analytics: ^8.1.2
+  firebase_remote_config: "^0.10.0+2"
+  launch_review: ^3.0.1
+  flutter_launcher_icons: ^0.9.0
+  package_info_plus: ^1.0.3
+  google_sign_in: ^5.0.4
+  flutter_login_facebook: ^1.0.1
+  sizer: ^2.0.13
+  shared_preferences: ^2.0.6
+  cloud_firestore: ^2.4.0
+  google_mobile_ads: ^0.13.2
+  url_launcher: ^6.0.9
+
+flutter_icons:
+  image_path: "assets/logos/icon_android.png"
+  android: true
+  ios: false
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/audios/
+    - assets/logos/

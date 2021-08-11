@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <!-- Facebook variables  -->
+  <string name="app_name">{fbname}</string> 
+  <string name="facebook_app_id">{id}</string>
+  <string name="fb_login_protocol_scheme">fb{id}</string>
+
+  <!-- Google Play variables  -->
+  <string name="app_id">{google play id}</string> 
+  
+
+</resources>
+

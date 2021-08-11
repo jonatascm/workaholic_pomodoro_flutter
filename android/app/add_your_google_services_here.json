@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "337144092443",
+    "project_id": "workaholic-pomodoro",
+    "storage_bucket": "workaholic-pomodoro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337144092443:android:f03fc4857cb75d5177e5be",
+        "android_client_info": {
+          "package_name": "com.jcmdevs.workaholic_pomodoro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337144092443-ki9v7vdcbev5kn2r0iisea35odr1n3eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdGPuZDxwUucsvJXbw9NR0MdhO657JP1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337144092443-ki9v7vdcbev5kn2r0iisea35odr1n3eu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
